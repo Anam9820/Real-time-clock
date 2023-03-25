@@ -1,12 +1,15 @@
-var x = 45, y=10;
-x = x%y;
+// var favShow = "the office";
+// console.log(favShow.length)
 
-var a= 10 , b=2;
-a = a**b;
 
-var x = 3 >= 5;
-x
+// console.log (favShow[0]); 
 
-var x = "namaste" , y = "world";
-x = x + " " + y;
-x
+// console.log(favShow[favShow.length-1])
+
+// console.log(favShow.indexOf("the"))
+
+// console.log(favShow.slice(5,7));
+
+// var sek = "my name is khan";
+// console.log (srk.toUpperCase());
+// console.log (srk.toLowerCase());
